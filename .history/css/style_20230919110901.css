@@ -24,8 +24,9 @@ p {
 img {
     width: 250px;
     display: block;
+    place-items: center;
     border: dashed 10px #fff;
-    margin: 0 auto;
+    /* margin: 0 auto; */
 }
 
 div {
