@@ -86,10 +86,10 @@ div {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-top: solid 2px;
+    border-top: none;
     border-right: solid 5px;
-    border-bottom: none;
-    border-left: none;
+    border-bottom: solid 2px;
+    border-left: ;
 }
 
 footer {
