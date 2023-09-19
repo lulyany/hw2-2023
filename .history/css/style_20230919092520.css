@@ -77,6 +77,8 @@ div {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
+    border-right: solid 5px #fff;
+    border-top: solid 2px #fff;
     border:  solid #fff 2px 5px 0 0;
 }
 
